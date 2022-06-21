@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>test0621 index</title>
+<title>test0621 page2</title>
 </head>
 <body>
-<p>test0621 index</p>
-<a href="page1.jsp">page1へのリンク</a><br>
-<a href="page2.jsp">page2へのリンク</a>
+<p>test0621 page2</p>
+<a href="index.jsp">indexへのリンク</a>
 </body>
 </html>
